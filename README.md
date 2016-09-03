@@ -1,5 +1,11 @@
 # spital
 
+## Init DB
+
+```bash
+./spital-util data/boxes.csv data/tools.csv data/compisition.csv 
+```
+
 ##Running the app
 
 To run the whole app (server + db + client) you need a *docker-compose.yml* file :
